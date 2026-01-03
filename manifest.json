@@ -1,0 +1,10 @@
+{
+    "id": "goal",
+    "name": "GOAL",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "A plugin to manage QA entries with tabs, tags, and SQLite storage using sql.js.",
+    "author": "Quenwaz",
+    "authorUrl": "https://yourwebsite.com",
+    "isDesktopOnly": false
+}
