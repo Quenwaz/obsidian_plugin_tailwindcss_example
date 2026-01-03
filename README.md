@@ -1,0 +1,1 @@
+# obsidian_plugin_tailwindcss_example
